@@ -1,2 +1,2 @@
-# Proyecto-Pr-cticos-con--Python
+# Proyecto-Practicos-con-Python
 Ejercicios con python
